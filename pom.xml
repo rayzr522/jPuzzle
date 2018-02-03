@@ -8,6 +8,7 @@
     <artifactId>jpuzzle</artifactId>
     <version>1.0.0</version>
     <name>jPuzzle</name>
+    <description>Another "game" from my early education in the wonderful world of code</description>
 
     <properties>
         <java.version>1.8</java.version>
