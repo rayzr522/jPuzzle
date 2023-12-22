@@ -6,12 +6,8 @@ I hesitate to say game since in reality this is simply a character who can move 
 
 The controls are simple, just the arrow keys to move around, `R` to reset, and `ESC` to exit. You can walk around on the grass, use the staircases to get up onto the walls and boxes, and if you're on ground-level (grass), you can push the boxes around.
 
-*Fun little tip: you can actually take the boxes and make a bridge from one little section of wall to another and uses the staircases to get up to it!*
+_Fun little tip: you can actually take the boxes and make a bridge from one little section of wall to another and uses the staircases to get up to it!_
 
 ## Installation
 
 Just grab the latest JAR file from the [releases page](https://github.com/Rayzr522/jPuzzle/releases) and run it. That's all.
-
-## Join Me
-
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
